@@ -20,7 +20,7 @@ export const getLogs = () => (dispatch) => {
   try {
     setLoading();
 
-    const data = res.json();
+    const data = res.logs;
     dispatch({
       type: GET_LOGS,
       payload: data,
