@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/opendev/static/css/main.f229b4f6.chunk.css",
+    "main.js": "/opendev/static/js/main.8e9330f1.chunk.js",
+    "main.js.map": "/opendev/static/js/main.8e9330f1.chunk.js.map",
+    "runtime~main.js": "/opendev/static/js/runtime~main.dfe117d0.js",
+    "runtime~main.js.map": "/opendev/static/js/runtime~main.dfe117d0.js.map",
+    "static/js/2.c28b0e47.chunk.js": "/opendev/static/js/2.c28b0e47.chunk.js",
+    "static/js/2.c28b0e47.chunk.js.map": "/opendev/static/js/2.c28b0e47.chunk.js.map",
+    "index.html": "/opendev/index.html",
+    "precache-manifest.ec6139774efa5069c7ae68ba93a2d65c.js": "/opendev/precache-manifest.ec6139774efa5069c7ae68ba93a2d65c.js",
+    "service-worker.js": "/opendev/service-worker.js",
+    "static/css/main.f229b4f6.chunk.css.map": "/opendev/static/css/main.f229b4f6.chunk.css.map"
+  }
+}
