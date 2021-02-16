@@ -1,5 +1,5 @@
 import { GET_LOGS, SET_LOADING, LOGS_ERROR } from "./types";
-import res from "../../db.json";
+import res from "../db.json";
 
 // export const getLogs = () => {
 //   return async dispatch => {
