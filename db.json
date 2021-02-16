@@ -1,0 +1,155 @@
+{
+  "logs": [
+    {
+      "id":0,
+      "author": "Luigi Toscano",
+      "message": {
+        "content": [ "Added to reviewer: "],  
+        "reviewer": "Alfredo Garcia"
+      },
+      "data": {
+        "date": "Nov 30, 2020, 18:40:12 UTC-05:00"
+      }
+      
+    },
+    {
+      "id":1,
+      "author": "Luigi Toscano",
+      "message": {
+        "content": [ "Uploaded patch set 1."]
+      },
+      "data": {
+        "type": "Patchset 1",
+        "date": "Nov 30, 2020, 18:40:12 UTC-05:00"
+      }
+      
+    },
+    {
+      "id":2,
+      "author": "Zuul",
+      "message": {
+        "content": [ "Added to reviewer: "], 
+        "reviewer": "Zuul" 
+      },
+      "data": {
+        "date": "Nov 30, 2020, 18:40:12 UTC-05:00"
+      }
+    },
+    {
+      "id":"3",
+      "author": "Zuul",
+      "scores": [
+        {
+          "name": "Verified",
+          "value": 1
+        }
+      ],
+      "message": {
+        "content": [
+        "Build succeeded (check pipeline).",
+        "- openstack-tox-molecule",
+        "https://zuul.opendev.org/t/openstack/build/b218ec9b40b442a5874fc571e5d3b5e5",
+        ": SUCCESS in 3m 29s",
+        "- openstack-tox-linters",
+        "https://zuul.opendev.org/t/openstack/build/1533443fa79543c7bd8480f9952b09aa",
+        " : SUCCESS in 6m 47s",
+        "- tripleo-tox-molecule",
+        "https://zuul.opendev.org/t/openstack/build/89dd9757afac45de86ac26bb64bff03b",
+        " : SUCCESS in 4m 47s",
+        "- tripleo-upgrade-centos-8-molecule ",
+        "https://zuul.opendev.org/t/openstack/build/2da7b8f6b542438b8209c903c3f3cfdb",
+        ": SUCCESS in 10m 29s"
+              ]
+      },
+      "data": {
+        "type": "Patchset 1",
+        "date": "Nov 30, 2020, 18:40:12 UTC-05:00"
+      }
+    },
+    {
+      "id":"4",
+      "author": "Sergii Golovatiuk",
+      "message": {
+        "content": ["Added to reviewer: "],
+        "reviewer": "Sergii Golovatiuk"
+      },
+      "data": {
+        "date": "Nov 30, 2020, 18:40:12 UTC-05:00"
+      }
+    },
+    {
+      "id":5,
+      "author": "Sergii Golovatiuk",
+      "message": {"content": [""]},
+      "scores": [
+        {
+          "name": "Code-Review",
+          "value": 2
+        },
+        {
+          "name": "Workflow",
+          "value": 1
+        }
+      ],
+      "data": {
+        "type": "Patchset 1",
+        "date": "Nov 30, 2020, 18:40:12 UTC-05:00"
+      }
+    },
+    {
+      "id":6,
+      "author": "Zuul",
+      "message": {"content": ["Starting gate jobs "]},
+      "scores": [
+        {
+          "name": "Verified Removed",
+          "value": 0
+        }
+      ],
+      "data": {
+        "type": "Patchset 1",
+        "date": "Nov 30, 2020, 18:40:12 UTC-05:00"
+      }
+    },
+    {
+      "id":"7",
+      "author": "Zuul",
+      "scores": [
+        {
+          "name": "Verified",
+          "value": 2
+        }
+      ],
+      "message": {
+        "content": [
+        "Build succeeded (check pipeline).",
+        "- openstack-tox-molecule",
+        "https://zuul.opendev.org/t/openstack/build/b218ec9b40b442a5874fc571e5d3b5e5",
+        ": SUCCESS in 3m 29s",
+        "- openstack-tox-linters",
+        "https://zuul.opendev.org/t/openstack/build/1533443fa79543c7bd8480f9952b09aa",
+        " : SUCCESS in 6m 47s",
+        "- tripleo-tox-molecule",
+        "https://zuul.opendev.org/t/openstack/build/89dd9757afac45de86ac26bb64bff03b",
+        " : SUCCESS in 4m 47s",
+        "- tripleo-upgrade-centos-8-molecule ",
+        "https://zuul.opendev.org/t/openstack/build/2da7b8f6b542438b8209c903c3f3cfdb",
+        ": SUCCESS in 10m 29s"
+              ]
+      },
+      "data": {
+        "type": "Patchset 1",
+        "date": "Nov 30, 2020, 18:40:12 UTC-05:00"
+      }
+    },
+    {
+      "id":8,
+      "author": "Zuul",
+      "message": {"content": ["Change has been successfully merged by Zuul"]},
+      "data": {
+        "type": "Patchset 1",
+        "date": "Nov 30, 2020, 18:40:12 UTC-05:00"
+      }
+    }
+  ]
+}
